@@ -6,9 +6,9 @@
 
 
 ## ⁍ Project By:
-> Shreyas Chavhan - https://github.com/shreyaschavhan
-> Sauhard Saini - https://github.com/sauhard2701
-> Rutuja Jangle - https://github.com/rutujajangle
+> - Shreyas Chavhan - https://github.com/shreyaschavhan
+> - Sauhard Saini - https://github.com/sauhard2701
+> - Rutuja Jangle - https://github.com/rutujajangle
 
 ---
 > P.S. README will be updated soon along with the project files.
